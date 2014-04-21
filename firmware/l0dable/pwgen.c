@@ -2,7 +2,7 @@
 
 #include "usetable.h"
 
-#define PW_LEN 8
+#define PW_LEN 12
 
 void pw_cleanup(char * pw);
 void pw_set(char * pw, uint16_t * k);
