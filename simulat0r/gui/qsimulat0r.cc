@@ -12,6 +12,7 @@
 #include <QThread>
 #include <cstdio>
 #include <pthread.h>
+#include <unistd.h>
 
 using namespace std;
 

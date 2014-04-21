@@ -1,0 +1,1 @@
+export PATH=/opt/CodeSourcery/Sourcery_G++_Lite/bin:$PATH
